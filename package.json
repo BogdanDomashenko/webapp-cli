@@ -1,0 +1,30 @@
+{
+  "name": "webapp-cli",
+  "version": "1.0.0",
+  "description": "CLI for creating basic Web app project(Now supports only SCSS and SASS)",
+  "main": "bin/index.js",
+  "bin": {
+    "webapp-cli": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BogdanDomashenko/webapp-cli.git"
+  },
+  "keywords": [
+    "scss"
+  ],
+  "author": "cesar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BogdanDomashenko/webapp-cli/issues"
+  },
+  "homepage": "https://github.com/BogdanDomashenko/webapp-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.4"
+  }
+}
