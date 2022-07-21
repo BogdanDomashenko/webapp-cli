@@ -1,10 +1,6 @@
 # Web app CLI
 <br/>
-````
-```
 usage: npx webapp-cli-create
-```
-````
 <br/>
 ## Templates
 - SCSS
