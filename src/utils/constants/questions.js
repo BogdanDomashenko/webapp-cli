@@ -5,8 +5,6 @@ const CHOICES = fs.readdirSync(path.join(__dirname, '../../templates'))
     .filter(choise => choise[0] !== "_");
 // if folder name starts from '_' sumbol it mens that template isn't available
 
-console.log(CHOICES)
-
 const QUESTIONS = [
 {
     name: 'template',
