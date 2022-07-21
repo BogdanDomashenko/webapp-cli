@@ -1,6 +1,4 @@
 # Web app CLI
-<br/>
-usage: npx webapp-cli-create
 ## Templates
 - SCSS
 - SASS
