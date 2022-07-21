@@ -3,5 +3,6 @@
 - SCSS
 - SASS
 
-[![img](https://i.imgur.com/QQxGQhj.png)]
-[![img](https://i.imgur.com/HYATp3q.png)]
+![img](https://i.imgur.com/QQxGQhj.png)
+<br/>
+![img](https://i.imgur.com/HYATp3q.png)
