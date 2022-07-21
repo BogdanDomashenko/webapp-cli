@@ -1,5 +1,5 @@
 {
-  "name": "webapp-cli",
+  "name": "webapp-cli-create",
   "version": "1.0.0",
   "description": "CLI for creating basic Web app project(Now supports only SCSS and SASS)",
   "main": "bin/index.js",
@@ -15,7 +15,12 @@
     "url": "git+https://github.com/BogdanDomashenko/webapp-cli.git"
   },
   "keywords": [
-    "scss"
+    "web app cli",
+    "scss cli",
+    "sass cli",
+    "web cli",
+    "scss",
+    "sass"
   ],
   "author": "cesar",
   "license": "ISC",
